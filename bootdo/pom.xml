@@ -263,7 +263,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <executable>true</executable>
+                    <mainClass>com.bootdo.BootdoApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>
